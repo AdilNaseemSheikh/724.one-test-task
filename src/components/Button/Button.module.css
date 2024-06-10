@@ -1,0 +1,32 @@
+/* Loader.module.css */
+
+.btn {
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    display: inline-block;
+    text-align: center;
+  }
+  
+  /* Primary Button */
+  .primary {
+    background-color: #007bff;
+    color: white;
+    border: none;
+  }
+  
+  /* Outline Button */
+  .outline {
+    background-color: transparent;
+    color: #007bff;
+    border: 2px solid #007bff;
+  }
+  
+  /* Delete Button */
+  .delete {
+    background-color: #dc3545;
+    color: white;
+    border: none;
+  }
+  
